@@ -1,6 +1,44 @@
 h1{
     text-align: center;
 }
+h2{
+    height: 5%;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
 p{
-    text-align: justify;
+    text-align: justify ;
+}
+body{
+    background-color: rgba(138, 46, 46, 0.45)
+}
+.Singapore{
+    display: flex;
+    margin-bottom: -24%;
+}
+.Singapore p{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: -15.5%;
+}
+.Dubai{ 
+    display: flex;
+    justify-content: center;
+    margin-bottom: -24%;
+}
+.Dubai p{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: -14%;
+}
+.London{
+    display: flex;
+    justify-content: flex-end;
+}
+.London p{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: -1%;
 }
