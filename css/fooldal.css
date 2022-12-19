@@ -16,22 +16,22 @@ body{
 }
 .Singapore{
     display: flex;
-    margin-bottom: -24%;
+    margin-bottom: -23%;
 }
 .Singapore p{
     width: 15%;
-    margin-top: 5%;
-    margin-left: -15.5%;
+    margin-top: 4%;
+    margin-left: -15%;
 }
 .Dubai{ 
     display: flex;
     justify-content: center;
-    margin-bottom: -24%;
+    margin-bottom: -23%;
 }
 .Dubai p{
     width: 15%;
-    margin-top: 5%;
-    margin-left: -14%;
+    margin-top: 4%;
+    margin-left: -13.5%;
 }
 .London{
     display: flex;
@@ -39,6 +39,25 @@ body{
 }
 .London p{
     width: 15%;
-    margin-top: 5%;
-    margin-left: -1%;
+    margin-top: 4%;
+    margin-left: -15%;
+}
+.Parizs{
+    display: flex;
+    margin-bottom: -23%;
+}
+.Parizs p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -13%;
+}
+.Bangkok{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -24%;
+}
+.Bangkok p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -11%;
 }
