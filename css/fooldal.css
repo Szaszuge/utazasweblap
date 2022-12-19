@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+h2{
+    height: 5%;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+p{
+    text-align: justify ;
+}
+body{
+    background-color: rgba(138, 46, 46, 0.45)
+}
+.Singapore{
+    display: flex;
+    margin-bottom: -23%;
+}
+.Singapore p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -15%;
+}
+.Dubai{ 
+    display: flex;
+    justify-content: center;
+    margin-bottom: -23%;
+}
+.Dubai p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -13.5%;
+}
+.London{
+    display: flex;
+    justify-content: flex-end;
+}
+.London p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -15%;
+}
+.Parizs{
+    display: flex;
+    margin-bottom: -23%;
+}
+.Parizs p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -13%;
+}
+.Bangkok{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -24%;
+}
+.Bangkok p{
+    width: 15%;
+    margin-top: 4%;
+    margin-left: -11%;
+}
