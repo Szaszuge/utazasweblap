@@ -9,13 +9,12 @@ h2{
   
   
   
-  body {
-  
-    font-family: 'Fira Sans', sans-serif;
-  
-    margin: 0;
-  
-  }
+body
+{
+   font-family: 'Fira Sans', sans-serif;
+   margin: 0;
+   background-color: rgba(138, 46, 46, 0.45)
+}
   
   
   
