@@ -2,10 +2,6 @@
     box-sizing: border-box;
   }
 
-* img{
-   margin: 0px;
-   padding: 0px;
-}
   
   
   
@@ -140,6 +136,5 @@ body
 }
 
 #kep img{
-   position: relative;
    width: 100%;
 }
