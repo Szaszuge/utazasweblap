@@ -1,0 +1,11 @@
+.cim{
+    position: absolute;
+    z-index: 1;
+    color: rgb(255, 255, 255);
+    left: 50%;
+    top: 52%;
+}
+
+img{
+    width: 100%;
+}
