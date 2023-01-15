@@ -28,6 +28,13 @@ body{
    background: rgba(138, 46, 46, 1);
   }
 
+  .title{
+   position: absolute;
+   z-index: 1;
+   color: black;
+   left: 46%;
+   top: 45%;
+}
   
   .navigacio ul {
    border: 1px solid white rgba(138, 46, 46, 1);;
@@ -54,7 +61,7 @@ p,h2{
 
 .kep{
    position: relative;
-   width: 98.9%;
+   width: 100%;
 }
 .banner{
    position: relative;
