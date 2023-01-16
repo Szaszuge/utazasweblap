@@ -17,10 +17,6 @@ a{
    text-align: center;}
 a:hover{
    background: rgba(138, 46, 46, 1);}
-.main{
-   max-width: 1440px;
-   margin: 0 auto;
-   padding: 0 3em 1.5em;}
 .navigacio ul {
    border: 1px solid white rgba(138, 46, 46, 1);;
    list-style: none;
