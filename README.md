@@ -16,4 +16,5 @@ Feladat:
       <li>Scrum keretrendszer használata</li>
       <li>Feladatok kiosztása a projektben résztvevőknek</li>
 </ul>
+https://szaszuge.github.io/utazasweblap/utazasweblap/index.html
  
