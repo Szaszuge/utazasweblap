@@ -3,7 +3,8 @@
     margin: 0px;
 }
 body{
-    background-color: rgba(138, 46, 46, 0.45)
+    background-color: rgba(138, 46, 46, 0.45);
+    text-align: center;
 }
 .kep{
     position: relative;
