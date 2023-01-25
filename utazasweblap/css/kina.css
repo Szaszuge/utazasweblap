@@ -3,7 +3,8 @@
     margin: 0px;
 }
 body{
-    background-color: rgba(138, 46, 46, 0.45)
+    background-color: rgba(138, 46, 46, 0.45);
+    text-align: center;
 }
 .kep{
     position: relative;
@@ -12,11 +13,4 @@ body{
 .banner{
     position: relative;
     text-align: center;  
-}
-.cim{
-    position: absolute;
-    z-index: 1;
-    color: white;
-    left: 50%;
-    top: 50%;
 }
