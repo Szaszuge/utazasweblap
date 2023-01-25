@@ -13,10 +13,14 @@ body{
     position: relative;
     text-align: center;  
 }
-.cim{
-    position: absolute;
-    z-index: 1;
-    color: white;
-    left: 50%;
-    top: 50%;
+.kepek{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 2px white solid;
+}
+.kepek:hover{
+    width: 50%;
+    transition: 3s ease;
 }
