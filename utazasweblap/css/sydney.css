@@ -65,7 +65,8 @@ p,h2{
 }
 .banner{
    position: relative;
-   text-align: center;  
+   text-align: center; 
+   transition: 1s;
 }
 .cim{
    position: absolute;
@@ -80,8 +81,12 @@ p,h2{
    margin-right: auto;
    width: 40%;
    border: 2px white solid;
+   transition: transform 1.5s;
 }
 .kepek:hover{
-   width: 50%;
-   transition: 3s ease;
+   transform:scale(1.1);
+}
+.banner:hover{
+   opacity: 0.75;
+   
 }
