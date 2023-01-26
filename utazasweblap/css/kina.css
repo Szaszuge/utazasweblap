@@ -20,8 +20,8 @@ body{
     margin-right: auto;
     width: 40%;
     border: 2px white solid;
+    transition: transform 1.5s;
 }
 .kepek:hover{
-    width: 50%;
-    transition: 3s ease;
-}
+    transform:scale(1.1);
+ }
