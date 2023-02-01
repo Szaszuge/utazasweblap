@@ -89,3 +89,49 @@ p,h2{
    opacity: 0.75;
    
 }
+
+@media all and (max-width: 834px) {
+  
+   .navigacio ul {
+  
+      flex-wrap: wrap;
+  
+   }
+  
+   
+  
+   .navigation li {
+  
+      flex: 1 1 50%;
+  
+   }
+  
+  
+  
+   .navigacio .user {
+  
+      flex: 1 1 33.33%;
+  
+   }
+  
+  }
+  
+  
+  
+  @media all and (max-width: 480px) {
+  
+   .navigation li {
+  
+      flex-basis: 100%;
+  
+   }
+  
+  
+  
+   .navigation .user {
+  
+      flex-basis: 50%;
+  
+   }
+  
+  }

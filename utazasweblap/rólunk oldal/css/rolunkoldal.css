@@ -73,7 +73,7 @@ body{
 }
 
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
     .about__person {
         width: 30%;
     }
@@ -89,7 +89,6 @@ body{
 
 a {
   color: white;
-  font-weight: 300;
   letter-spacing: 2px;
   text-decoration: none;
   background: rgba(138, 46, 46, 0.85);
@@ -120,6 +119,53 @@ a {
   flex: 1;
  }
 
+
+
+ @media all and (max-width: 834px) {
+  
+  .navigacio ul {
+ 
+     flex-wrap: wrap;
+ 
+  }
+ 
+  
+ 
+  .navigation li {
+ 
+     flex: 1 1 50%;
+ 
+  }
+ 
+ 
+ 
+  .navigacio .user {
+ 
+     flex: 1 1 33.33%;
+ 
+  }
+ 
+ }
+ 
+ 
+ 
+ @media all and (max-width: 480px) {
+ 
+  .navigation li {
+ 
+     flex-basis: 100%;
+ 
+  }
+ 
+ 
+ 
+  .navigation .user {
+ 
+     flex-basis: 50%;
+ 
+  }
+ 
+ }
 
 
 
