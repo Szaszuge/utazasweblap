@@ -1,103 +1,55 @@
 * {
     box-sizing: border-box;
-  }
-
-  
-  
-  
+} 
 body
 {
    font-family: 'Fira Sans', sans-serif;
    margin: 0;
    background-color: rgba(138, 46, 46, 0.45)
-}
-  
-  
-  
-  a {
-  
+}  
+a {
    color: white;
-  
    font-weight: 300;
-  
    letter-spacing: 2px;
-  
    text-decoration: none;
-  
    background: rgba(138, 46, 46, 0.85);
-  
    padding: 20px 5px;
-  
    display: inline-block;
-  
    width: 100%;
-  
-   text-align: center;
-  
-  }
-  
-  
-  
-  a:hover {
-  
+   text-align: center;  
+}
+a:hover {
    background: rgba(138, 46, 46, 1);
-  
   }
-  
-  
-  
-
-  
-  
-  
-  .navigacio ul {
-  
+.navigacio ul {
    border: 1px solid white rgba(138, 46, 46, 1);;
-  
    list-style: none;
-  
    margin: 0;
-  
    padding: 0;
-  
    display: flex;
-  
-  }
-  
-  
-  
-  .navigacio li {
-  
+}
+.navigacio li { 
    flex: 3;    
-  
-  }
-  
-  
-  
-  .navigacio .user {
-  
+}     
+.navigacio .user {
    flex: 1;
-  
-  }
-  
-  
-  
-  @media all and (max-width: 500px) {
-  
+}  
+  @media all and (max-width: 500px) { 
    .navigacio ul {
-  
       flex-wrap: wrap;
       flex-direction: column;  
    }
-  }
-
+}
 #cim1{
    text-align: left!important;
 }
 #cim2{
    text-align: left!important;
 }
-
 #kep img{
    width: 100%;
+}
+p{
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
