@@ -45,21 +45,14 @@ a:hover{
  flex: 3;    }
 .navigacio .user {
  flex: 1;}
-@media all and (max-width: 834px) {
- .navigacio ul {
-    flex-wrap: wrap;}
-
-.navigation li {
-  flex: 1 1 50%;}
-
-.navigacio .user {
-  flex: 1 1 33.33%;}}
-
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 10px;
+ @media all and (max-width: 500px) {
+  
+  .navigacio ul {
+ 
+     flex-wrap: wrap;
+     flex-direction: column;  
   }
+ }
   .grid-item {
     text-align: center;
   }
