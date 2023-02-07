@@ -1,4 +1,4 @@
-# Utazás weblab 
+# Utazás weblap
  
  <i>Résztvevők:<i>
  <ul>
